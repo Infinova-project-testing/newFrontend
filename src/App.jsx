@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router,Routes,Route } from "react-router-dom";
-import Eduventures from "./componenets/Eduventures";
+import Eduventures from "./pages/Eduventures";
 
 function App() {
   return (
